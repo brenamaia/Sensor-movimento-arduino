@@ -1,0 +1,22 @@
+
+int led = 13;
+int pinosensor = 2;
+
+void setup() {
+  pinMode(led, OUTPUT);
+  pinMode(pinosensor, INPUT);
+}
+
+void loop() {
+  if(digitalRead (pinosensor) == HIGH){
+  	digitalWrite(led, HIGH);
+    Serial.println("MOVIMENTO DETECTADO");
+  }
+  
+  if(digitalRead (pinosensor) == LOW){
+  	digitalWrite(led, LOW);
+    Serial.println("NENHUM MOVIMENTO DETECTADO");
+  }
+              
+  delay(1000);               
+}
