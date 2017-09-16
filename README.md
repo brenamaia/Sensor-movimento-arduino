@@ -1,10 +1,11 @@
 # Sensor de movimento PIR DYP-ME003 em arduino
-  Os sensores de movimento integrados em arduino s„o capaz de detectar quando um objeto se movimenta em determinada ·rea. Nesse trabalho, foi utilizado o sensor PIR DYP-ME003, comum em sistemas de luminosidade e alarme.
-  Esse projeto consiste em acender um led vermelho sempre que o sensor detectar movimento. Caso n„o seja detectado nenhum movimento, o led permanecer· apagado.
-  O cÛdigo completo utilizado neste projeto est· disponÌvel na pasta ìCodesî, no arquivo de nome ìsensor-PIR-arduinoî.
-  Segue abaixo a imagem do protÛtipo:
+  Os sensores de movimento integrados em arduino s√£o capaz de detectar quando um objeto se movimenta em determinada √°rea. Nesse trabalho, foi utilizado o sensor PIR DYP-ME003, comum em sistemas de luminosidade e alarme.
+  Esse projeto consiste em acender um led vermelho sempre que o sensor detectar movimento. Caso n√£o seja detectado nenhum movimento, o led permanecer√° apagado.
+  O c√≥digo completo utilizado neste projeto est√° dispon√≠vel na pasta ‚Äúcodes‚Äù, no arquivo de nome ‚Äúsensor-PIR-arduino‚Äù.
+  Segue abaixo a imagem do prot√≥tipo:
   
-Componentes utilizados na implementaÁ„o deste projeto:
-ComponenteQuantidadeArduino Uno 301Protoboard01Sensor PIR DYP-ME00301Led Vermelho01
+  Componentes utilizados na implementa√ß√£o deste projeto:
+
+
 
   
