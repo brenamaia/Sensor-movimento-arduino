@@ -4,7 +4,7 @@
   O código completo utilizado neste projeto está disponível na pasta “codes”, no arquivo de nome “sensor-PIR-arduino”.
   Segue abaixo a imagem do protótipo:
   
-  ![alt text](https://github.com/brenamaia/sensor-movimento-arduino/tree/master/pictures/print-pjt-arduino-sensor-movimento.png)
+  (https://github.com/brenamaia/sensor-movimento-arduino/tree/master/pictures/print-pjt-arduino-sensor-movimento.png)
   
   Componentes utilizados na implementação deste projeto:
 
